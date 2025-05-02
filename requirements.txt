@@ -1,0 +1,9 @@
+openai-whisper
+transformers
+sentencepiece
+torch
+TTS
+pydub
+simpleaudio
+yt-dlp
+PyQt5
