@@ -92,3 +92,6 @@ python translate_video.py \
   --speaker-wav path/to/custom_reference.wav
 ```
 
+![](videos/Trump-en-webp)
+![](videos/Trump-fr.mp4)
+![](videos/Trump-zh.mp4)
