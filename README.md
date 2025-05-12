@@ -2,6 +2,21 @@
 
 A Python CLI tool to translate video speech and replace audio using Whisper, MarianMT, and Coqui-TTS.
 
+
+https://github.com/user-attachments/assets/7349d2c0-cd67-4920-b807-c09676ac89e3 
+
+https://github.com/user-attachments/assets/a2d631f6-d063-4e62-b51a-ed4892e45c4d
+
+https://github.com/user-attachments/assets/b1bc1c8d-bcd6-4309-abfb-72733340a3af
+
+
+
+
+
+
+
+
+
 ## Setup
 
 1. Create and activate a virtual environment:
@@ -92,6 +107,5 @@ python translate_video.py \
   --speaker-wav path/to/custom_reference.wav
 ```
 
-![](videos/Trump-en-webp)
-![](videos/Trump-fr.mp4)
-![](videos/Trump-zh.mp4)
+
+
